@@ -96,15 +96,6 @@ I run **[tapNrate.it](https://tapnrate.it)** — a small side business selling *
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=denisvreshtazi&show_icons=true&hide=issues&hide_border=true&include_all_commits=true&count_private=true&theme=default" alt="Denis's GitHub stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=denisvreshtazi&layout=compact&hide_border=true&langs_count=8&theme=default" alt="Top languages" height="165"/>
-</p>
-
----
-
 ## 📫 Get in Touch
 
 - 💼 **LinkedIn** — [denis-vreshtazi](https://www.linkedin.com/in/denis-vreshtazi-35b201118/)
