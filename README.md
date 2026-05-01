@@ -23,7 +23,7 @@
 
 I'm a **Data Engineer at Technology Reply**, designing and operating production data pipelines for **Stellantis** — covering CRM, sales funnels, and marketing analytics on the **Google Cloud Platform** and **Azure** stacks.
 
-I work end-to-end on the data lifecycle: ingestion → transformation → modeling → orchestration → monitoring. My day-to-day mixes **SQL**, **Python**, **dbt**, and **Airflow** with cloud-native services like **BigQuery**, **Cloud Functions**, **Cloud Workflows**, **Azure Data Factory**, and **Databricks**.
+I work end-to-end on the data lifecycle: ingestion → transformation → modeling → orchestration → monitoring. My day-to-day mixes **SQL**, **Python**, **dbt** and **Airflow** with cloud-native services like **BigQuery**, **Cloud Functions**, **Cloud Workflows**, **Azure Data Factory**, **Snowflake** and **Databricks**.
 
 🎓 **M.Sc. in Computer Engineering** — *Università degli studi di Firenze*
 
